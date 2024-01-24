@@ -18,7 +18,7 @@ format:
     #backgroundcolor: "#F1F3F4"
     #embed-resources: true
     link-external-newwindow: true
-    #css: ./assets/my_css_file.css   #- CUIDADO!!!!
+    css: "./assets/my_css_file.css"   #- CUIDADO!!!!
 code-tools: true
 code-link: true
 ---
