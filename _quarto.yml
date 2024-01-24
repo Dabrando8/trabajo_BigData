@@ -20,7 +20,7 @@ website:
       - text: "Trabajo individual"   #---
         href: my_trabajo_BigData.qmd   
       - icon: github
-        href: https://github.com/<Dabrando8>    #- pon tu usuario Github
+        href: https://github.com/Dabrando8    #- pon tu usuario Github
       - icon: envelope
         url: "mailto:<dabase@alumni.uv.es>"            #- pon tu e-mail
   page-footer:
@@ -30,7 +30,7 @@ website:
     center: "Hecho con [Quarto](https://quarto.org)"
     right:
       - icon: github
-        href: https://github.com/<Dabrando8>     #- pon tu usuario Github
+        href: https://github.com/Dabrando8     #- pon tu usuario Github
       - icon: envelope
         url: "mailto:<dabase>@alumni.uv.es"            #- pon tu e-mail
     
